@@ -1,4 +1,4 @@
-# Praise-Delivery
+# Chat NodeJs/Socket.IO
 
 [![typescript](https://img.shields.io/badge/typescript-4.3.5-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 ![Socket.Io](https://img.shields.io/badge/SocketIo-3.0.2-yellow)
